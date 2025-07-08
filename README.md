@@ -56,7 +56,6 @@
 ## 📫 Contact Me
 
 - 📧 Email: berkemertmungan@gmail.com  
-- 📞 Phone: +90 507 827 86 81  
 - 🌐 Location: Çankaya, Ankara, Türkiye  
 
 ---
